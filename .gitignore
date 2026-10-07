@@ -1,0 +1,8 @@
+.env
+*.local.php
+.vscode/
+.idea/
+.DS\_Store
+Thumbs.db
+*.log
+backup/
